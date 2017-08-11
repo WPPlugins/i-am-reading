@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I am reading 0.6b\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-14 21:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dominik Hanke <wordpress@bitte-nicht-lesen.de>\n"
+"Language-Team: Dominik Hanke <dominik.hanke@gmx.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: D:/Websites/i-am-reading/trunk/\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/templates/iar-uninstall.php:3
+#: i-am-reading.php:134
+#@ i_am_reading
+msgid "Uninstall"
+msgstr "Deinstallation"
+
+#: admin/templates/iar-amazon.php:51
+#: admin/templates/iar-amazon.php:68
+#@ i_am_reading
+msgid "Amazon Marketplace"
+msgstr "Amazon Marktplatz"
+
+#: admin/templates/iar-amazon.php:54
+#@ i_am_reading
+msgid "Canada"
+msgstr "Kanada"
+
+#: admin/templates/iar-amazon.php:55
+#@ i_am_reading
+msgid "France"
+msgstr "Frankreich"
+
+#: admin/templates/iar-amazon.php:56
+#@ i_am_reading
+msgid "Germany"
+msgstr "Deutschland"
+
+#: admin/templates/iar-amazon.php:57
+#@ i_am_reading
+msgid "Japan"
+msgstr "Japan"
+
+#: admin/templates/iar-amazon.php:58
+#@ i_am_reading
+msgid "United States"
+msgstr "Amerika (US)"
+
+#: admin/templates/iar-amazon.php:59
+#@ i_am_reading
+msgid "United Kingdom"
+msgstr "England (UK)"
+
+#: admin/templates/iar-current.php:69
+#@ i_am_reading
+msgid "Current Page"
+msgstr "Aktuelle Seite"
+
+#: admin/templates/iar-display.php:76
+#@ i_am_reading
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: admin/templates/iar-display.php:108
+#@ i_am_reading
+msgid "alignment left"
+msgstr "links am Rand"
+
+#: admin/templates/iar-display.php:109
+#@ i_am_reading
+msgid "alignment center"
+msgstr "in der Mitte"
+
+#: admin/templates/iar-display.php:110
+#@ i_am_reading
+msgid "alignment right"
+msgstr "rechts am Rand"
+
+#: admin/templates/iar-display.php:122
+#@ i_am_reading
+msgid "book cover"
+msgstr "Cover-Bild"
+
+#: admin/templates/iar-display.php:124
+#@ i_am_reading
+msgid "book title"
+msgstr "Buchtitel"
+
+#: admin/templates/iar-display.php:123
+#@ i_am_reading
+msgid "progress bar"
+msgstr "Prozessleiste"
+
+#: admin/templates/iar-display.php:138
+#@ i_am_reading
+msgid "Image Size"
+msgstr "Bildgröße"
+
+#: admin/templates/iar-display.php:141
+#@ i_am_reading
+msgid "size small"
+msgstr "klein"
+
+#: admin/templates/iar-display.php:142
+#@ i_am_reading
+msgid "size medium"
+msgstr "mittel"
+
+#: admin/templates/iar-display.php:143
+#@ i_am_reading
+msgid "size large"
+msgstr "groß"
+
+#: admin/templates/iar-current.php:63
+#: admin/templates/iar-display.php:156
+#: admin/templates/iar-search.php:79
+#@ i_am_reading
+msgid "Book Title"
+msgstr "Buchtitel"
+
+#: admin/templates/iar-search.php:156
+#: themes/default.php:93
+#@ i_am_reading
+msgid "Pages"
+msgstr "Seiten"
+
+#: admin/templates/iar-uninstall.php:12
+#@ i_am_reading
+msgid "The database tables have been deleted before !"
+msgstr "Die Datenbank-Tabellen sind schon entfernt worden !"
+
+#: admin/templates/iar-uninstall.php:13
+#@ i_am_reading
+msgid "There´s nothing to do here."
+msgstr "Somit gibt es hier nichts weiter zu tun."
+
+#: admin/templates/iar-amazon.php:15
+#@ i_am_reading
+msgid "<strong>Missing Access Key ID</strong>: Sign up for a free <a href=\"https://aws-portal.amazon.com/gp/aws/developer/registration/index.html\" target=\"_blank\">Amazon Web Services</a> account to use this plugin."
+msgstr "<strong>Fehlende Access Key ID</strong>: Die kostenlose Anmeldung für die <a href=\"https://aws-portal.amazon.com/gp/aws/developer/registration/index.html\" target=\"_blank\">Amazon Web Services</a> ist notwendig."
+
+#: admin/templates/iar-amazon.php:19
+#@ i_am_reading
+msgid "<strong>Wrong Access Key ID</strong>: Check your ID at <a href=\"https://aws-portal.amazon.com/gp/aws/developer/account/index.html?action=access-key\" target=\"_blank\">Amazon Web Services</a> and try again."
+msgstr "<strong>Ungültige Access Key ID</strong>: Die ID findest du im <a href=\"https://aws-portal.amazon.com/gp/aws/developer/account/index.html?action=access-key\" target=\"_blank\">Amazon Web Services Account</a>."
+
+#: admin/templates/iar-amazon.php:23
+#@ i_am_reading
+msgid "<strong>Missing Secret Access Key</strong>: Check your Key at <a href=\"https://aws-portal.amazon.com/gp/aws/developer/account/index.html?action=access-key\" target=\"_blank\">Amazon Web Services</a> and try again."
+msgstr "<strong>Fehlender Secret Access Key</strong>: Den Key findest du im<a href=\"https://aws-portal.amazon.com/gp/aws/developer/account/index.html?action=access-key\" target=\"_blank\">Amazon Web Services Account</a>."
+
+#: admin/templates/iar-amazon.php:27
+#@ i_am_reading
+msgid "<strong>Wrong Secret Access Key</strong>: Check your Key at <a href=\"https://aws-portal.amazon.com/gp/aws/developer/account/index.html?action=access-key\" target=\"_blank\">Amazon Web Services</a> and try again."
+msgstr "<strong>Ungültiger Secret Access Key</strong>: Den Key findest du im <a href=\"https://aws-portal.amazon.com/gp/aws/developer/account/index.html?action=access-key\" target=\"_blank\">Amazon Web Services Account</a>."
+
+#: admin/templates/iar-amazon.php:39
+#@ i_am_reading
+msgid "<strong>Configuration saved</strong>."
+msgstr "<strong>Einstellungen gespeichert</strong>."
+
+#: admin/templates/iar-amazon.php:68
+#@ i_am_reading
+msgid "Choose your marketplace to ensure the books you are searching for can be found.<br /> Currently there aren't all english books in the german XML service, although they are shown at amazon.de"
+msgstr "Wähle den passenden Marktplatz um sicherzustellen dass von dir gesuchte Bücher gefunden werden können.<br />Zur Zeit sind nicht alle englischen Bücher im deutschen XML Service, auch wenn Sie auf den Amazon-Seiten angezeigt werden."
+
+#: admin/templates/iar-amazon.php:73
+#: admin/templates/iar-amazon.php:74
+#@ i_am_reading
+msgid "Access Key ID"
+msgstr "Access Key ID"
+
+#: admin/templates/iar-amazon.php:74
+#@ i_am_reading
+msgid "You need to get an Access Key ID for <b>free</b>.<br />The plugin can't get the book information from Amazon otherwise."
+msgstr "Du brauchst eine <b>kostenlose</b> Access Key ID.<br />Das Plugin kann ohne leider keine Buchdaten bei Amazon abrufen."
+
+#: admin/templates/iar-amazon.php:80
+#: admin/templates/iar-amazon.php:81
+#@ i_am_reading
+msgid "Secret Access Key"
+msgstr "Secret Access Key"
+
+#: admin/templates/iar-amazon.php:81
+#@ i_am_reading
+msgid "The secret key is needed for Amazon Webservices since August 2009.<br />You can find it in your AWS Account Details."
+msgstr "Der Scret Key wird seit August 2009 benötigt.<br />Du findest Ihn in deinen AWS Account Details."
+
+#: admin/templates/iar-amazon.php:87
+#: admin/templates/iar-amazon.php:88
+#@ i_am_reading
+msgid "Amazon Partner ID"
+msgstr "Amazon Partner ID"
+
+#: admin/templates/iar-amazon.php:88
+#@ i_am_reading
+msgid "You can get a fee when books get bought by users who used a link with your ID."
+msgstr "Mit dem Amazon Partnerprogramm kannst du bei jedem über deinen Link verkauften Buch eine Provision verdienen."
+
+#: admin/templates/iar-amazon.php:93
+#: admin/templates/iar-amazon.php:96
+#@ i_am_reading
+msgid "Amazon Partner Link"
+msgstr "Amazon Partner Link"
+
+#: admin/templates/iar-amazon.php:96
+#@ i_am_reading
+msgid "You should choose 'yes' if you'd like to get a fee by using your Amazon Partner ID."
+msgstr "Mit 'ja' kannst du das Amazon Partnerprogramm nutzen um Provision zu verdienen."
+
+#: admin/templates/iar-amazon.php:101
+#@ i_am_reading
+msgid "save settings"
+msgstr "Einstellungen speichern"
+
+#: admin/templates/iar-current.php:5
+#: i-am-reading.php:127
+#@ i_am_reading
+msgid "Current Book"
+msgstr "Aktuelles Buch"
+
+#: admin/templates/iar-current.php:15
+#: admin/templates/iar-display.php:34
+#@ i_am_reading
+msgid "<strong>No book selected:</strong> Try to find one using the forms <a href=\"/wp-admin/admin.php?page=iar_search\">here</a> to get started."
+msgstr "<strong>Kein Buch gewählt:</strong> Versuche eins über die <a href=\"/wp-admin/admin.php?page=iar_search\">Suche</a> zu finden, um anzufangen."
+
+#: admin/templates/iar-current.php:19
+#@ i_am_reading
+msgid "<strong>Missing book title</strong>: Please enter a title and try again."
+msgstr "<strong>Fehlender Buchtitel</strong>: Bitte gib einen Titel ein und versuche es erneut."
+
+#: admin/templates/iar-current.php:23
+#@ i_am_reading
+msgid "<strong>Wrong current page value</strong>: Please enter a valid number."
+msgstr "<strong>Ungültige Seitenzahl</strong>: Bitte eine gültige Zahl verwenden."
+
+#: admin/templates/iar-current.php:27
+#@ i_am_reading
+msgid "<strong>Wrong current page value</strong>: Please enter a number <= pages total."
+msgstr "<strong>Ungültige Seitenzahl</strong>: Die Zahl muss kleiner / gleiuch der Gesamtzahl sein."
+
+#: admin/templates/iar-current.php:31
+#@ i_am_reading
+msgid "<strong>Missing ASIN</strong>: Can't read book information from Amazon."
+msgstr "<strong>Fehlende ASIN</strong>: Abruf der Buchinformationen fehlgeschlagen."
+
+#: admin/templates/iar-current.php:44
+#@ i_am_reading
+msgid "<strong>Book settings saved</strong>."
+msgstr "<strong>Buchdaten gespeichert</strong>."
+
+#: admin/templates/iar-current.php:46
+#@ i_am_reading
+msgid "<strong>New book \"title\" set as current</strong>."
+msgstr "<strong>Neues Buch \"title\" gespeichert</strong>."
+
+#: admin/templates/iar-current.php:59
+#@ i_am_reading
+msgid "Currently Reading"
+msgstr "Ich lese gerade"
+
+#: admin/templates/iar-current.php:83
+#@ i_am_reading
+msgid "save book info"
+msgstr "Buchdaten speichern"
+
+#: admin/templates/iar-display.php:29
+#@ i_am_reading
+msgid "Display"
+msgstr "Anzeige"
+
+#: admin/templates/iar-display.php:47
+#@ i_am_reading
+msgid "<strong>Missing widget title</strong>: Please enter a title and try again."
+msgstr "<strong>Ungültiger Widget-Titel</strong>: Bitte gib einen Titel ein."
+
+#: admin/templates/iar-display.php:51
+#@ i_am_reading
+msgid "<strong>Nothing to display</strong>: Set one ore more widget items to be displayed."
+msgstr "<strong>Keine Anzeigeelemente gewählt</strong>: Wähle mind. 1 anzuzeigendes Element."
+
+#: admin/templates/iar-display.php:63
+#@ i_am_reading
+msgid "<strong>Display settings saved</strong>."
+msgstr "<strong>Anzeige-Einstellungen gespeichert</strong>."
+
+#: admin/templates/iar-display.php:72
+#@ i_am_reading
+msgid "Widget"
+msgstr "Widget"
+
+#: admin/templates/iar-display.php:105
+#@ i_am_reading
+msgid "Widget Alignment"
+msgstr "Widget Ausrichtung"
+
+#: admin/templates/iar-display.php:121
+#@ i_am_reading
+msgid "Widget Items"
+msgstr "Anzeigeelemente"
+
+#: admin/templates/iar-display.php:135
+#@ i_am_reading
+msgid "Book Cover"
+msgstr "Cover-Bild"
+
+#: admin/templates/iar-display.php:160
+#: admin/templates/iar-display.php:217
+#@ i_am_reading
+msgid "Font Family & Size"
+msgstr "Schriftart und -Größe"
+
+#: admin/templates/iar-display.php:181
+#: admin/templates/iar-display.php:238
+#@ i_am_reading
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: admin/templates/iar-display.php:183
+#: admin/templates/iar-display.php:196
+#: admin/templates/iar-display.php:203
+#: admin/templates/iar-display.php:210
+#: admin/templates/iar-display.php:240
+#@ i_am_reading
+msgid "click here to choose a color"
+msgstr "hier klicken um eine Farbe zu wählen"
+
+#: admin/templates/iar-display.php:190
+#@ i_am_reading
+msgid "Progressbar"
+msgstr "Prozessleiste"
+
+#: admin/templates/iar-display.php:194
+#@ i_am_reading
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: admin/templates/iar-display.php:201
+#@ i_am_reading
+msgid "Foreground Color"
+msgstr "Fordergrundfarbe"
+
+#: admin/templates/iar-display.php:208
+#@ i_am_reading
+msgid "Border Color"
+msgstr "Rahmenfarbe"
+
+#: admin/templates/iar-display.php:248
+#@ i_am_reading
+msgid "save display settings"
+msgstr "Anzeige-Einstellungen speichern"
+
+#: admin/templates/iar-search.php:5
+#: i-am-reading.php:128
+#@ i_am_reading
+msgid "Book Search"
+msgstr "Buchsuche"
+
+#: admin/templates/iar-search.php:15
+#@ i_am_reading
+msgid "<strong>Missing Amazon Key(s)</strong>: Please set up your AWS account details <a href=\"admin.php?page=iar_amazon\">here</a>."
+msgstr "<strong>Fehlende Amazon Details</strong>: Bitte gib deine Amazon-Daten <a href=\"admin.php?page=iar_amazon\">hier</a> ein."
+
+#: admin/templates/iar-search.php:19
+#, php-format
+#@ i_am_reading
+msgid "<strong>Unknown ISBN</strong>: No books found with ISBN %1$s."
+msgstr "<strong>Unbekannte ISBN</strong>: Keine Bücher mit der ISBN %1$s gefunden."
+
+#: admin/templates/iar-search.php:23
+#@ i_am_reading
+msgid "<strong>Missing keywords</strong>: Please enter a book title or author."
+msgstr "<strong>FehlendeSuchbegriffe</strong>: Bitte gib einen Titel / Autor ein."
+
+#: admin/templates/iar-search.php:27
+#@ i_am_reading
+msgid "<strong>Nothing found</strong>: There's no book with given author / title."
+msgstr "<strong>Nichts gefunden</strong>: Keine Bücher mit diesem Autor / Titel gefunden."
+
+#: admin/templates/iar-search.php:39
+#@ i_am_reading
+msgid "<strong>New book set</strong>."
+msgstr "<strong>Neues Buch gespeichert</strong>."
+
+#: admin/templates/iar-search.php:51
+#@ i_am_reading
+msgid "Find new book by ISBN"
+msgstr "Buchsuche mit ISBN"
+
+#: admin/templates/iar-search.php:55
+#@ i_am_reading
+msgid "Book ISBN"
+msgstr "ISBN"
+
+#: admin/templates/iar-search.php:63
+#@ i_am_reading
+msgid "search for ISBN"
+msgstr "ISBN suchen"
+
+#: admin/templates/iar-search.php:76
+#@ i_am_reading
+msgid "Find new book by Title / Author"
+msgstr "Buchsuche nach Titel / Autor"
+
+#: admin/templates/iar-search.php:85
+#@ i_am_reading
+msgid "Book Author"
+msgstr "Buchautor"
+
+#: admin/templates/iar-search.php:92
+#@ i_am_reading
+msgid "search for title / author"
+msgstr "nach Titel / Autor suchen"
+
+#: admin/templates/iar-search.php:134
+#@ i_am_reading
+msgid "Authors"
+msgstr "Autoren"
+
+#: admin/templates/iar-search.php:138
+#@ i_am_reading
+msgid "unknown"
+msgstr "unbekannt"
+
+#: admin/templates/iar-search.php:144
+#@ i_am_reading
+msgid "Binding"
+msgstr "Bindung"
+
+#: admin/templates/iar-search.php:150
+#@ i_am_reading
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: admin/templates/iar-search.php:165
+#@ i_am_reading
+msgid "set as current book"
+msgstr "als aktuelles Buch setzen"
+
+#: admin/templates/iar-uninstall.php:22
+#@ i_am_reading
+msgid "Please read the following information, before clicking the button:"
+msgstr "Bitte lies die folgenden Informationen vor dem Klick auf den Button:"
+
+#: admin/templates/iar-uninstall.php:23
+#@ i_am_reading
+msgid "This feature should only be used if you really want to deactivate this plugin and remove all of it's stored information from the database."
+msgstr "Diese Funktion sollte nur verwendet werden, wenn das Plugin mit allen dazugehörigen Datenbank-Informationen gelöscht werden soll."
+
+#: admin/templates/iar-uninstall.php:24
+#, php-format
+#@ i_am_reading
+msgid "Please use the %sPlugins%s page for %s normal %s deactivation without losing the plugin's setup (Amazon Keys, current book, ...)."
+msgstr "Bitte nutze die %sPlugins% Seite für eine %s normale %s Deaktivierung ohne die Plugin-Einstellungen zu verlieren (Amazon Keys, Aktuelles Buch, ...)."
+
+#: admin/templates/iar-uninstall.php:27
+#@ i_am_reading
+msgid "By clicking the button you agree to"
+msgstr "Mit Klick auf den Button bestätigst du:"
+
+#: admin/templates/iar-uninstall.php:29
+#@ i_am_reading
+msgid "delete all database tables created by this plugin."
+msgstr "alle Datenbank-Tabellen dieses Plugins zu löschen."
+
+#: admin/templates/iar-uninstall.php:30
+#, php-format
+#@ i_am_reading
+msgid "deactivate the plugin and jump to %sPlugins%s page."
+msgstr "das Plugin zu deaktivieren und zur %sPlugins% Seite zur springen."
+
+#: admin/templates/iar-uninstall.php:37
+#@ i_am_reading
+msgid "Uninstall plugin"
+msgstr "Plugin deinstallieren"
+
+#: admin/templates/iar-uninstall.php:44
+#, php-format
+#@ i_am_reading
+msgid "%s Plugin's database tables deleted. %s Redirecting to plugin deactivation ..."
+msgstr "%s Datenbank-Tabellen des Plugins gelöscht. %s Weiterleitung zur Deaktivierung ..."
+
+#: i-am-reading.php:129
+#@ i_am_reading
+msgid "Amazon API"
+msgstr "Amazon API"
+
+#: i-am-reading.php:130
+#@ i_am_reading
+msgid "Appearance"
+msgstr "Anzeige"
+
+#: includes/class.iAmReading.php:349
+#@ i_am_reading
+msgid "- not reading -"
+msgstr "- nicht am Lesen -"
+
